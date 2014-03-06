@@ -1,1 +1,3 @@
+.rsync_cache/*
 node_modules/*
+
